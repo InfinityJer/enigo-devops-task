@@ -132,15 +132,10 @@ Feel free to fork this repo and improve the project. Submit a PR with any enhanc
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 ## 📩 Contact
 For any questions, feel free to reach out:
 - **Email:** karimikuriah@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+- **GitHub:** [InfinityJer](https://github.com/InfinityJer)
 
 ---
 
